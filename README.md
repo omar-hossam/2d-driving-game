@@ -9,6 +9,10 @@ it's my first game written in Python, I learnt many things with the help of Chat
 
 looking forward to build more later!
 
+## Attribution
+
+Car images used in this project are from [Flaticon](https://www.flaticon.com)
+
 ### LICENSE
 
 it's obvious that this mini game is under MIT License. 
